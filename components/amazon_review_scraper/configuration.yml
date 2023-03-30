@@ -1,5 +1,7 @@
 description: A Component that takes a list of product URLs as input and retrieves
   the reviews for each product. Outputs a list of dictionaries where the key is the
   URL and the value is the associated reviews.
+input-class: ProductURLsInputDict
 name: AmazonReviewScraper
+output-class: ReviewsOutputDict
 parameters: {}
