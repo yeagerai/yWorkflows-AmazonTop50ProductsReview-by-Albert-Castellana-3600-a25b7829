@@ -1,0 +1,5 @@
+description: A Component that takes a list of product URLs as input and retrieves
+  the reviews for each product. Outputs a list of dictionaries where the key is the
+  URL and the value is the associated reviews.
+name: AmazonReviewScraper
+parameters: {}
