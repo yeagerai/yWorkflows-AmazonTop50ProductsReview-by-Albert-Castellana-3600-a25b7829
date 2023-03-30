@@ -1,0 +1,4 @@
+
+pydantic==1.8.2
+fastapi==0.68.1
+external_api_client==1.0.0  # Replace this with the actual API client library version
