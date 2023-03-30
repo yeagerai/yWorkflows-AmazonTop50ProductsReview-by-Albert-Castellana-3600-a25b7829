@@ -1,6 +1,8 @@
 description: A Component that searches Amazon for products matching the input product
   name and retrieves their URLs. Takes as input the product name and an optional limit
   for the number of results (defaults to 50). Outputs a list of product URLs.
+input-class: SearchAmazonInputDict
 name: SearchAmazon
+output-class: SearchAmazonOutputDict
 parameters:
   result_limit: 50
