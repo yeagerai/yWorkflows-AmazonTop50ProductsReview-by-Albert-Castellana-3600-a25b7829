@@ -2,5 +2,7 @@ description: This component retrieves the top 50 products from Amazon based on u
   reviews and saves the product names in a spreadsheet. The component takes a product
   name as input, searches for the top 50 products related to the input, and writes
   the product names to a spreadsheet file with the specified output path.
+input-class: AmazonTop50ProductsReviewIn
 name: AmazonTop50ProductsReview
+output-class: AmazonTop50ProductsReviewOut
 parameters: {}
